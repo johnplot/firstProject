@@ -1,3 +1,11 @@
-h3{
-color: red;
+#mycolor1 {
+    background: #ff9999;
+}
+
+#mycolor2 {
+    background: #99ccff;
+}
+
+#mycolor3 {
+    background: #00cc99;
 }
